@@ -2,6 +2,7 @@
 [![Sanity Tests](https://github.com/jclaveau/ansible-vagrant-module/actions/workflows/sanity-tests.yaml/badge.svg)](https://github.com/jclaveau/ansible-vagrant-module/actions/workflows/sanity-tests.yaml)
 [![Integration Tests](https://github.com/jclaveau/ansible-vagrant-module/actions/workflows/integration-tests.yaml/badge.svg)](https://github.com/jclaveau/ansible-vagrant-module/actions/workflows/integration-tests.yaml)
 [![Coverage](https://codecov.io/gh/jclaveau/ansible-vagrant-module/branch/master/graph/badge.svg?token=qlZsPUMdwP)](https://codecov.io/gh/jclaveau/ansible-vagrant-module)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjclaveau%2Fansible-vagrant-module.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjclaveau%2Fansible-vagrant-module?ref=badge_shield)
 
 ===============
 A vagrant module for ansible that lets you control vagrant VMs from an ansible playbook.
@@ -347,3 +348,7 @@ report back the resulting status
 
 
 .
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjclaveau%2Fansible-vagrant-module.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjclaveau%2Fansible-vagrant-module?ref=badge_large)

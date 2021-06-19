@@ -1,3 +1,0 @@
-fixes:
-  # https://docs.codecov.io/docs/fixing-paths
-  - "ansible_collections/jclaveau/vagrant/::"        # reduce root e.g., "before/path/" => "path/"
